@@ -2,7 +2,7 @@
 const cursor = document.querySelector(".cursor");
 var timeout;
 //follow cursor on mousemove
-
+//testing comment
 document.addEventListener("mousemove", (e) => {
     let x = e.pageX;
     let y = e.pageY;
